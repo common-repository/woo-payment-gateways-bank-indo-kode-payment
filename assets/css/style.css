@@ -1,0 +1,16 @@
+.account-bank-details {
+    display:block; 
+}
+.row-bank-details {
+    display:block;
+}
+.cell-detail {
+    display:inline-block;
+}
+.row-bank-details .cell-detail .two-dot{
+    padding:0 10px;
+}
+
+.row-bank-details .cell-detail .detail-val{
+    padding:0 10px;
+}
